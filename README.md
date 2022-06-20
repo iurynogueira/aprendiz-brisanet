@@ -10,16 +10,8 @@ Deve ser criado uma API e disponibilizada no [Heroku](https://www.heroku.com/)
 
 ## Informações importantes
 
-- Não implementar frontend nessa primeira etapa
 - Utilizar Go ou JS (Express/Node)
 - Utilizar o [Gin](https://github.com/gin-gonic/gin) (caso escolha por Go)
-
-## Andamento do projeto
-
-| Funcionalidade        | Estado |
-| ------------- |:-------------:|
-| Manter equipe      | ❌ |
-| Manter projeto      | ❌ |
-| Associar equipe a projeto | ❌ | 
-| Criar tarefa no projeto | ❌ | 
-| Atribuir tarefa | ❌ | 
+- Utilizar algum SGBD (PostgreSQL/MySQL)
+- Implementar frontend (Angular/Vue/React)
+- Testes e2e com Cypress
